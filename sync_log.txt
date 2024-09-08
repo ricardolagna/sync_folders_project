@@ -1,0 +1,6 @@
+Copied: source\file1.txt -> replica\file1.txt
+Copied: source\file2.txt -> replica\file2.txt
+Copied: source\file1.txt -> replica\file1.txt
+Copied: source\file2.txt -> replica\file2.txt
+Copied: source\file2.txt -> replica\file2.txt
+Copied: source\file1.txt -> replica\file1.txt
